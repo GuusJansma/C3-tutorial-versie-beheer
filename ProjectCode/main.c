@@ -12,7 +12,6 @@ int main()
     printf("%d", g);
     //Freek
     int z = 99;
-    int x = 30;
 
     int s = z - x;
     printf("%d", s);
