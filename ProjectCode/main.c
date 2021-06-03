@@ -30,7 +30,16 @@ int main()
 
 
     //Cas
-
+	if (t <= n)
+	{
+		printf("t is kleiner of gelijk aan n.\n")
+	}
+	
+	else
+	{
+		printf("n is kleiner dan t.\n")
+	}
+	
     //Niels
 	int a = 13;
 	int b = 9;
